@@ -1,0 +1,17 @@
+.simplevideogallery_menu {
+    margin: 15px 0;
+}
+
+.simplyvideogallery_menu ul, .simplevideogallery_menu ul li {
+    display: inline;
+}
+
+.postbox ul, .postbox ul li  {
+    display: inline;
+}
+
+#wpf-update-actions {
+    border-top: 1px solid #FFFFFF;
+    padding: 10px 10px 2px 8px;
+    text-align: right;
+}
