@@ -1,0 +1,9 @@
+#svg-playlist {}
+#svg-playlist .svg-video-item {float: left; padding-bottom: 20px;}
+#svg-playlist .svg-video-item-title {font-size: 10px; line-height: 1;}
+#svg-playlist .svg-video-item-title a {float: left; padding: 0 5px; line-height: 1.3;}
+#svg-playlist .svg-video-item-padding {padding-right: 20px;}
+#svg-playlist #svg-page {float: left; width: 100%;}
+
+.svg-video-object {width: 540px; margin: 0 auto; margin-top: 10px;}
+.svg-video-description {width: 540px; margin: 0 auto; margin-top: 10px; font-size: 12px;}
