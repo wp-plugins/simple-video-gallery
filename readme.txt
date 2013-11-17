@@ -3,8 +3,8 @@ Contributors: mch0lic
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F46P9W3FSA9GN
 Tags: video, youtube, admin, posts, page, Post
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.0.0
+Tested up to: 3.7.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Simple video gallery plugin for WordPress!
@@ -16,6 +16,9 @@ Simple Video Gallery (SVG) is easy to use plugin that allows adding videos and p
 Become our [**Facebook**](http://www.facebook.com/MindoMobileSolutions) fan to keep up with the latest updates. You can also find us on **Google+** circles [here](https://plus.google.com/116940685804905541644).
 
 ENJOY!
+
+**Translations Credits**
+Serbo/Croatian - Borisa Djuraskovic
 
 == Installation ==
 
@@ -41,5 +44,8 @@ You can contact us by email support@mindomobile.com or you can leave us a messag
 You can simply send the translation files to our email support@mindomobile.com and we would pack it within the next release of the plugin. Please, do not forget to include *.po and *.mo files as well as your Wordpress username for credits!
 
 == Change Log ==
+= 1.0.1 =
+* New: Serbo/Croatian language added. Thanks goes to Borisa Djuraskovic.
+
 = 1.0.0 =
 * New: Initial release

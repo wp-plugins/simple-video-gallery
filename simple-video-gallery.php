@@ -3,7 +3,7 @@
 Plugin Name: Simple Video Gallery
 Plugin URI: http://mindomobile.com
 Description: Simple video gallery plugin for your blog.
-Version: 1.0.0
+Version: 1.0.1
 Author: MindoMobile
 License: GPL2
 */
@@ -17,7 +17,7 @@ if (!function_exists ('is_admin')) {
 class SimpleVideoGalleryPlugin
 {
    var $name = "Video Gallery";
-   var $ver = "1.0.0";
+   var $ver = "1.0.1";
    var $domain = "simplevideogallery";
    var $c_path = "components/";        // components dir
    var $components = array();
